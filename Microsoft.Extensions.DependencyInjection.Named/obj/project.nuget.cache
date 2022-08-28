@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+CXshuInnM2MtPcEzBJt7Tec5yRMnlo7pPWfaYcZqd4nvTju1SKgnPIrHgTI+aKBkF3TWvujslZc0wMv0FPXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\PenaltyCalculationAssignment\\Microsoft.Extensions.DependencyInjection.Named\\Microsoft.Extensions.DependencyInjection.Named.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

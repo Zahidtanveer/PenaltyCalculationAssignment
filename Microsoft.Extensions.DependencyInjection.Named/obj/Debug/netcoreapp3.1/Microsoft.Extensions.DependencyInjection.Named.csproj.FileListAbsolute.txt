@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.deps.json
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.dll
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.pdb
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.AssemblyInfo.cs
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.dll
+C:\Users\HP\source\repos\Veripark.Assigment\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.pdb

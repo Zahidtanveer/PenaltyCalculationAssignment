@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Veripark.Assigment.Data.deps.json
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Veripark.Assigment.Data.runtimeconfig.json
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Veripark.Assigment.Data.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Veripark.Assigment.Data.dll
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Veripark.Assigment.Data.pdb
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.dll
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.pdb
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.csproj.CopyComplete
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.dll
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.pdb
+C:\Users\HP\source\repos\Veripark.Assigment\Veripark.Assigment.Data\obj\Debug\netcoreapp3.1\Veripark.Assigment.Data.genruntimeconfig.cache
