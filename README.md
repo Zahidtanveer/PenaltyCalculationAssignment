@@ -41,6 +41,7 @@ c. Penalty amount should be a decimal value to accommodate for cents and fills a
 => Do not make OVERDESIGN. The requirements are very simple and stated above. You will
 not receive extra points for making extra screens like login, user management, library
 management, book management etc. Please obey the requirements.
+
 => We will grade your code by its quality. Try to use comments, exceptions, validations, and
 configuration parameters with readable code as much as possible. Avoid magic numbers and
 lengthy procedures in code.
